@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcello</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-- 🔭 I’m currently looking for work **yes**
+- 🔭 I’m currently looking for **work**
 
 - 🌱 I’m currently learning **React**
 
